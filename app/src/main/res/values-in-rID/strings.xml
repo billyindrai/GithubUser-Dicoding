@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pengguna Github</string>
+    <string name="search">Mencari</string>
+    <string name="Photo">Foto</string>
+    <string name="setting">Pengaturan</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="name">Nama</string>
+    <string name="location" >Lokasi : %s</string>
+    <string name="repository">Penyimpanan : %s</string>
+    <string name="company">Perusahaan : %s</string>
+    <string name="followers">Pengikut : %s</string>
+    <string name="following">Mengikuti : %s</string>
+    <string name="followers_fragment">Pengikut</string>
+    <string name="following_fragment">Mengikuti</string>
+    <string name="change_language">Pengaturan Bahasa</string>
+    <string name="favorite">Favorit</string>
+    <string name="reminder">Pengingat</string>
+    <string name="alarm_name">Alarm Pengingat 09.00 Pagi</string>
+    <string name="language">Bahasa</string>
+</resources>

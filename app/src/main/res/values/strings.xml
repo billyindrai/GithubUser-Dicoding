@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Github User Search</string>
+    <string name="search">Search</string>
+    <string name="setting">Setting</string>
+    <string name="Photo">Photo</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>]
+    <string name="location">Location : %s</string>
+    <string name="repository">Repository : %s</string>
+    <string name="company">Company : %s</string>
+    <string name="followers">Followers : %s</string>
+    <string name="following">Following : %s</string>
+    <string name="followers_fragment">Followers</string>
+    <string name="following_fragment">Following</string>
+    <string name="change_language">Change Language</string>
+    <string name="favorite">Favorite</string>
+    <string name="reminder">Reminder</string>
+    <string name="alarm_name">Alarm Reminder 09.00 AM</string>
+    <string name="language">Language</string>
+</resources>

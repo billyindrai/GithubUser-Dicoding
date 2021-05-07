@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="@string/setting"
+        android:iconSpaceReserved="false">
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="@string/reminder"
+            android:title="@string/alarm_name"
+            android:icon="@drawable/ic_baseline_alarm_24"/>
+    </PreferenceCategory>
+    <Preference android:title="@string/language"
+        android:key="@string/language"
+        android:icon="@drawable/ic_baseline_language_24">
+    </Preference>
+</PreferenceScreen>
